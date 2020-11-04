@@ -42,10 +42,6 @@
 <br />
 <br />
 
----
-
----
-
 
 [twitter]: https://twitter.com/Raahinn
 [linkedin]: https://www.linkedin.com/in/moshohel/
