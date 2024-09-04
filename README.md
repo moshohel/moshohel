@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on 🤖 [Service Change Collection](https://github.com/moshohel/GS.git) & [World-Time](https://github.com/moshohel/World-Time)
 - 🌱 I’m currently learning everything 🤣, Mainly Flutter.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Still searching ONE 🤣
 
 
